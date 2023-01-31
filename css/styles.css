@@ -19,8 +19,7 @@
     color: var(--color_slate);
     background-color: var(--color_white);
     font-size: 16px;
-    line-height: 24px;
-    letter-spacing: 2%;
+    letter-spacing: 0.02em;
   }
 
 /* Hidden elements */
@@ -143,7 +142,6 @@
   }
   .goals-text {
     line-height: 1.5;
-    letter-spacing: 0.02em;
   }
   
   /* Main page. Section "What are we doing" */
